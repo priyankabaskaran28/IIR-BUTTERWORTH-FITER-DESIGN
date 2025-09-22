@@ -132,6 +132,11 @@ ylabel('Magnitude');
 <img width="1920" height="1200" alt="exp3(high_out)" src="https://github.com/user-attachments/assets/89d70705-91fb-4d3f-8746-70d3761dedae" />
 
 
+## RESULT:
+To design an IIR butterworth filter (LPF AND HPF) using Scilab was successfully executed.
+
+
+
 
 
 
